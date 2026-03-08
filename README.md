@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
@@ -31,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
