@@ -7,7 +7,6 @@ public:
             sum += pow((n%10),2);
             n/=10;
             if(n==0){
-                cout<<sum<<endl;
                 if(s.find(sum)==s.end()){
                     s.insert(sum);
                     n=sum;
