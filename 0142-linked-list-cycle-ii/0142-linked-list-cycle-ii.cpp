@@ -15,7 +15,7 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         do {
-            if (!slow->next || !fast->next || !fast->next->next) {
+            if (!fast->next || !fast->next->next) {
                 return NULL;
             }
             slow = slow->next;
