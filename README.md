@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -67,4 +69,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
