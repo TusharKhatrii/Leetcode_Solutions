@@ -38,12 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
