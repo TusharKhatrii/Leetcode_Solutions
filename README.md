@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
