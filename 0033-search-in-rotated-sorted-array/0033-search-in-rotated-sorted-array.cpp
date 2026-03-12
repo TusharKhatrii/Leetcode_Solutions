@@ -5,7 +5,7 @@ class Solution {
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] > target) {
-                high = mid-1;
+                high = mid - 1;
             } else
                 low = mid + 1;
         }
@@ -23,10 +23,9 @@ public:
                 low = mid + 1;
             }
         }
-        int pivot = low,res=-1;
+        int pivot = low, res = -1;
         high = nums.size() - 1;
-        res = binarySearch(nums, target, 0, pivot - 1); // 0..pivot-1
-        res = max(binarySearch(nums, target, pivot, high),res);     // pivot ... high
+        res = max(binarySearch(nums, target, 0, pivot - 1),binarySearch(nums, target, pivot,high));
         return res;
     }
 };
