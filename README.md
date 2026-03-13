@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
