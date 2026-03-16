@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
