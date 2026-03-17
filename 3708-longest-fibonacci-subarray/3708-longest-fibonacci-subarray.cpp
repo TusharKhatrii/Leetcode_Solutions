@@ -10,15 +10,15 @@ public:
         int num2=nums[1];
         for(int i=2;i<n;i++){
             if(nums[i]==num1 + num2){
-                res++;
+                localMax++;
             }
             else{
-                localMax=max(localMax,res);
-                res=2;
+                localMax=2;
             }
             num1=num2;
             num2=nums[i];
+            res=max(localMax,res);
         }
-        return max(localMax,res);
+        return res;
     }
 };
