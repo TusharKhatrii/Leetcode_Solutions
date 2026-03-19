@@ -1,34 +1,31 @@
 class Solution {
-    bool isEqual(vector<int> freq1, vector<int> freq2) {
-        for (int i = 0; i < 26; i++) {
-            if (freq1[i] != freq2[i]) {
-                return false;
-            }
+    bool allZero(vector<int> count){
+        for(int i:count){
+            if(i!=0)return false;
         }
         return true;
     }
-
 public:
     bool checkInclusion(string s1, string s2) {
-        bool ans = false;
-        vector<int> freq1(26, 0);
-        for (char c : s1) {
-            freq1[c - 'a']++;
-        }
+        if(s1.size()>s2.size())return false;
+        vector<int> count(26, 0);
+        int m=s1.size(),n=s2.size();
+        for (char c : s1)
+            count[c - 'a']++;
 
-        int n = s2.size(), m = s1.size();
-        for (int i = 0; i < n - m + 1; i++) {
-            vector<int> freq2(26, 0);
-            int l = i, r = i + m;
-            while (l < r) {
-                freq2[s2[l] - 'a']++;
-                l++;
-            }
-            if (isEqual(freq1, freq2)) {
-                ans = true;
-                break;
-            }
+        for (int j = 0; j < m; j++)
+            count[s2[j] - 'a']--;
+
+        if (allZero(count))
+            return true;
+
+        for (int i = 1; i <= n - m; i++) {
+            count[s2[i-1] - 'a']++;
+            count[s2[i+m-1] - 'a']--;
+
+            if (allZero(count))
+                return true;
         }
-        return ans;
+        return false;
     }
 };
