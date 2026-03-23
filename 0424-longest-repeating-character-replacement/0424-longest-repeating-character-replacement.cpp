@@ -8,6 +8,7 @@ public:
             freq[s[right] - 'A']++;
             maxF = max(maxF, freq[s[right]-'A']);
             if ((right - left + 1) - maxF > k) {
+                freq[s[left]-'A']--;
                 left++;
             }
             winLen = max(winLen, right - left + 1);
