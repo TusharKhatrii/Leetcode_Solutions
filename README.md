@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -133,4 +135,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
