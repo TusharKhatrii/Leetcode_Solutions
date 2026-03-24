@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -117,10 +118,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
