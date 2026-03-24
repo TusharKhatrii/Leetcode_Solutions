@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
