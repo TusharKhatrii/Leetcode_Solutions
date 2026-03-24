@@ -5,7 +5,7 @@ public:
         int count=0,left=0,right=0,res=0;
         while(right<n){
             if(nums[right]==0) count++;
-            while(count>k){
+            if(count>k){
                 if(nums[left]==0) count--;
                 left++;
             }
