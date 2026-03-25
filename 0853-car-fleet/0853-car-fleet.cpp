@@ -10,12 +10,10 @@ public:
         sort(vehicles.begin(), vehicles.end());
         for (int i = n - 1; i >= 0; i--) {
             double timeTaken =(double)(target - vehicles[i].first) / vehicles[i].second;
-            if (s.empty()) {
-                s.push(timeTaken);
+            if (!s.empty() && s.top() >= timeTaken) {
+                s.pop();
             }
-            else if (s.top() < timeTaken) {
-                s.push(timeTaken);
-            }
+            s.push(timeTaken);
         }
         return s.size();
     }
