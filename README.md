@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0853-car-fleet](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
