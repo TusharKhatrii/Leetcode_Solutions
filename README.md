@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
