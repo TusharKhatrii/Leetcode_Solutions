@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
