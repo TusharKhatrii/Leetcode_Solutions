@@ -131,12 +131,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,8 +183,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
