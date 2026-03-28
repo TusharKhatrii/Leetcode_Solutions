@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
