@@ -7,8 +7,8 @@ public:
         }
 
         int res = 0;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] == 0)
+        for (auto i:freq) {
+            if (i == 0)
                 continue;
             res++;
         }
