@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2751-robot-collisions](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3708-longest-fibonacci-subarray](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0853-car-fleet](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2751-robot-collisions](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [2751-robot-collisions](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [2751-robot-collisions](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
