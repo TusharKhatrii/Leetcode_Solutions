@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
