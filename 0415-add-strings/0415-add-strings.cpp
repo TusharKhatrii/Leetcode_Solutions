@@ -1,15 +1,8 @@
 class Solution {
 public:
     string addStrings(string num1, string num2) {
-        int maxLen = max(num1.size(), num2.size());
-        string larger = "", smaller = "";
-        if (num1.size() >= num2.size()) {
-            larger = num1;
-            smaller = num2;
-        } else {
-            smaller = num1;
-            larger = num2;
-        }
+        string larger = (num1.size()>=num2.size())?num1:num2;
+        string smaller = (num1.size()<num2.size())?num1:num2;
         string res(larger.size(), '0');
 
         int carry = 0, i = larger.size() - 1;
