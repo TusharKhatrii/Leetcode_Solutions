@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
+| [0415-add-strings](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0735-asteroid-collision](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [2751-robot-collisions](https://github.com/TusharKhatrii/Leetcode_Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Data Stream
